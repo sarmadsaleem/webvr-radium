@@ -9,7 +9,7 @@
     "ghpages": "ghpages"
   },
   "devDependencies": {
-    "budo": "^11.3.2",
+    "budo": "^11.6.1",
     "ghpages": "0.0.10"
   },
   "keywords": [
